@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  in MCA 
 - 💞️ I’m looking to collaborate in developing new technology in software field
 - 📫 How to reach me ... Email:mohitsinghoi501@gmail.com
-- 😄 Pronouns:  single mad
+- 😄 Pronouns:  
 - ⚡ Fun fact: i love to learning new technology ,skills and reading  books in this  field like economy, biography, spritual, ,poetry,story,financial etc.
 
 <!---
