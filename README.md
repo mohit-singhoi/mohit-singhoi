@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Mohit Singhoi, a Final-Year MCA student and aspiring Java Full Stack Developer with a strong passion for building scalable, real-world applications. I specialize in Java, Spring Boot, Hibernate, REST APIs, JDBC, SQL, and MySQL, and have hands-on experience developing backend projects while following clean architecture and best coding practices. I also enjoy solving Data Structures & Algorithms problems to strengthen my problem-solving skills and continuously explore modern technologies such as Spring Security, Microservices, Docker, Kubernetes, and AWS. I'm always eager to learn, contribute to impactful projects, collaborate with the developer community, and grow as a software engineer.
+#  About Me:
+Hi, I'm Mohit Singhoi, a Final-Year MCA student and aspiring Java Full Stack Developer with a strong passion for building scalable, real-world applications. I specialize in Java, Spring Boot, Hibernate, REST APIs, JDBC, SQL, and MySQL, and have hands-on experience developing backend projects while following clean architecture and best coding practices. I also enjoy solving Data Structures & Algorithms problems to strengthen my problem-solving skills and continuously explore modern technologies such as Spring Security, Microservices, Docker, Kubernetes, and AWS. I'm always eager to learn, contribute to impactful projects, collaborate with the developer community, and grow as a software engineer.
 
 
 ## 🌐 Socials:
@@ -14,6 +14,12 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mohit-singhoi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohit-singhoi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=mohit-singhoi&icon=0&color=0)](https://visitcount.itsvg.in)
